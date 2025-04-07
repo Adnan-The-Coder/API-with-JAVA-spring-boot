@@ -1,4 +1,4 @@
-# Basic Web API built using spring Boot, JAVA and Maven  
+# Web API built using spring Boot, JAVA and Maven  
 
 # To Test
 ```
